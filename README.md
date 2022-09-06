@@ -3,9 +3,9 @@
 Descrição
 
 ## Autores
-- Aluno 1 
-- Aluno 2
-- Aluno 3
-- Aluno 4 
-- Aluno 5
-- Aluno 6
+- Ana Luiza Cavalcante de Menezes 13922
+- Felipe Chiozzotto  12030
+- Kawuan Americo Mizael da Silva 14695
+- `Juliana Barbosa Sandes 12350` 
+- Tarik Omar Mazloum 14661
+- Thiago Baptista Soares 12264
